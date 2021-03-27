@@ -6,6 +6,9 @@
 
 This application allows a user to interaction with their employee database. Within the databse there are three tables, roles, departments, and employees. When the user fires up the application they are able to select form a list of prompts which allow them to view current data, add new data, and make basic role changes.
 
+## VIDEO
+https://drive.google.com/file/d/19ltLsYwD-eBTHPcZDjLIUVTRzSrmAqNz/view
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
